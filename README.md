@@ -4,15 +4,8 @@ This is a project I've wanted to build for over a decade now. I've finally made 
 
 On the display, we show the temperature, humidity, barometric pressure, and weather forecast. We get the temperature, humidity, and barometric pressure from two sensors, and the weather forecast from the internet.
 
-# Video Tutorial
 
-<p align="center">
-  <img src="preview.jpg" alt="Arduino Color E-Paper Weather Station" width="960">
-</p>
 
-<p align="center">
-🎥 <a href="https://youtu.be/AzechYMLUGY">Video Tutorial on YouTube</a>
-</p>
 
 <br>
 <br>
@@ -24,8 +17,8 @@ On the display, we show the temperature, humidity, barometric pressure, and weat
 
 # Parts Needed
 
-🛒 E-Paper Board: https://educ8s.tv/part/ColorEPaper
+🛒 E-Paper Board
 
-🛒 DHT22: https://educ8s.tv/part/DHT22
+🛒 DHT22
 
-🛒 BMP180: https://educ8s.tv/part/BMP180
+🛒 BMP180
