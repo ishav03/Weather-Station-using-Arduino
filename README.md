@@ -7,12 +7,6 @@ On the display, we show the temperature, humidity, barometric pressure, and weat
 
 
 
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/educ8s">YouTube</a>
-| 🌍 <a href="http://www.educ8s.tv">Website</a> | <br>
-</p>
 
 
 # Parts Needed
